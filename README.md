@@ -1,0 +1,1 @@
+I made this scratch project by trial and error many times. I should personally thank CS50x Teachers and Organizers for a simply breathtaking first lecture on Introduction to Computer Science. To anybody who is reading this. Go take a look at Harvard's CS50 Course right Now
